@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<KATALOG>
+		<DAFTAR>
+			<KECAMATAN>Kecamatan Banyusari</KECAMATAN>
+			<KODEPOS>41374</KODEPOS>
+			<DESA>Banyuasih</DESA>
+		</DAFTAR>
+		<DAFTAR>
+			<KECAMATAN>Kecamatan Batujaya</KECAMATAN>
+			<KODEPOS>41354</KODEPOS>
+			<DESA>karyabakti</DESA>
+		</DAFTAR>
+        <DAFTAR>
+			<KECAMATAN>Kecamatan Ciampel</KECAMATAN>
+			<KODEPOS>41363</KODEPOS>
+			<DESA>mulyasari</DESA>
+		</DAFTAR>
+        <DAFTAR>
+			<KECAMATAN>Kecamatan Cibuaya</KECAMATAN>
+			<KODEPOS>41354</KODEPOS>
+			<DESA>Pejaten</DESA>
+		</DAFTAR>
+        <DAFTAR>
+			<KECAMATAN>kecamatan Cikampek</KECAMATAN>
+			<KODEPOS>41373</KODEPOS>
+			<DESA>Kalihurip</DESA>
+		</DAFTAR>
+        <DAFTAR>
+			<KECAMATAN>Kecamatan Cilamaya Kulon</KECAMATAN>
+			<KODEPOS>41384</KODEPOS>
+			<DESA>Bayur kidul</DESA>
+		</DAFTAR>
+		<DAFTAR>
+			<KECAMATAN>Kecamatan Cilamaya Wetan</KECAMATAN>
+			<KODEPOS>41384</KODEPOS>
+			<DESA>Cikalong</DESA>
+		</DAFTAR>
+		<DAFTAR>
+			<KECAMATAN>Kecamatan Cilebar</KECAMATAN>
+			<KODEPOS>41353</KODEPOS>
+			<DESA>Cikande</DESA>
+		</DAFTAR>
+		<DAFTAR>
+			<KECAMATAN>Kecamatan Jatisari</KECAMATAN>
+			<KODEPOS>41374</KODEPOS>
+			<DESA>Jati baru</DESA>
+		</DAFTAR>
+        
+	</KATALOG>
